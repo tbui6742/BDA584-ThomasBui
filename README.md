@@ -1,1 +1,2 @@
-# BDA584-tbui6742
+# BDA584-Thomas Bui
+Hi, my name is Thomas Bui
