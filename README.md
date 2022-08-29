@@ -1,7 +1,7 @@
 # BDA594-Thomas Bui
 Hi, my name is Thomas Bui
 
-The URL to the BDA594 class: 
+The URL to the BDA594 class: https://sdsu.instructure.com/courses/113151
 
 
 
