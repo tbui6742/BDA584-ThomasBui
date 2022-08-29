@@ -1,4 +1,4 @@
-# BDA584-Thomas Bui
+# BDA594-Thomas Bui
 Hi, my name is Thomas Bui
 
 The URL to the BDA594 class: 
